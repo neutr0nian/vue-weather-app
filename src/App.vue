@@ -403,7 +403,7 @@ main {
 
 .card {
     color: #ffffff;
-    border-radius: 2em;
+    border-radius: 32px;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
     background-color: rgba(85, 85, 85, 0.336) !important;
   
