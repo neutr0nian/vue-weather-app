@@ -327,7 +327,7 @@ export default {
           if(hour < 16 && hour > 6){
             return true
           }
-          return true
+          return false
         }
     },
 };
