@@ -109,7 +109,7 @@
                                                     "
                                                 ></b-icon>
                                             </b-row>
-                                            <b-card-text>It feels like {{currentWeather.main.feels_like}}&deg;C </b-card-text>
+                                            <b-card-text>It feels like {{Math.round(currentWeather.main.feels_like)}}&deg;C </b-card-text>
                                         </b-card>
                                     </b-col>
 
